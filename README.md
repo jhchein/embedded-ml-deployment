@@ -1,7 +1,7 @@
-# embedded-ml-deployment
-Train Python Model and compile to C++ to run models on microcontrollers.
+**work in progress**
 
-We will start with implementing TF Lite for microcontroller examples into a Azure DevOps training pipeline.
+# Deploy models on microcontrollers
+Train Tensorflow Lite Model and convert to C++ code in order to run eventually on a microcontroller
 
 # Build Dockerfile and push to ACR
 * az login
