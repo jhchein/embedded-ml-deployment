@@ -1,0 +1,6 @@
+azureml-defaults==1.13.0
+inference-schema==1.1.0
+numpy
+matplotlib
+tensorflow==2
+gast==0.3.3
