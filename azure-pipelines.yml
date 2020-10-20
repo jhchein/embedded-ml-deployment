@@ -12,7 +12,6 @@ trigger:
     include:
     - Dockerfile
 
-container:
 pool:
   vmImage: 'ubuntu-latest'
 
